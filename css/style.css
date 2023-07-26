@@ -5,7 +5,7 @@ h1
 }
 body
 {
-background-color:rgb(147, 218, 241);
+background-color:rgb(199, 239, 252);
 }
 
 a
@@ -29,9 +29,41 @@ a
     {
         width: 100%;
         background-color: lightcoral;
-        float: left;
+        height: 16cm;
+        padding-top: 1cm;
     }
 
+.box2
+    {
+        background-color: violet;
+        width: 35cm;
+    }
+.box1
+    {
+        height: 20cm;
+        background-color: lightskyblue;
+        width: 18cm;
+    }
+.box3
+{
+    height: 15cm;
+    background-color: lightskyblue;
+    padding-bottom: 2cm;
+    width: 18cm;
+}
+.box4
+{
+    height: 12cm;
+    background-color: lightskyblue;
+    padding-bottom: 2cm;
+    width: 18cm;
+}
+.box5
+    {
+        height: 33cm;
+        background-color: lightskyblue;
+        width: 18cm;
+    }
 .content
     {
         color: black;
